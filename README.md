@@ -8,7 +8,7 @@ This is an **Unofficial Web Port** of the Free Godot game [**Escape! BAU BAU! by
 There are 2 methods:
 
 ### Vercel
-Go to https://tadc-vn-demo-candy-chaos-web-port.vercel.app/godot/Escape%21%20BAU%20BAU%21.html
+Go to https://escape-bau-bau-web-port.vercel.app/godot/Escape%21%20BAU%20BAU%21.html
 
 ### Local Server
 1. Click Code -> Download ZIP -> Extract the Zip.
